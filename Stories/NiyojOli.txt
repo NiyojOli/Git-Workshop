@@ -1,3 +1,5 @@
 Email: oliniyoj@gmail.com
 Name: Niyoj Oli
-Username: NiyojOli
+Username: NiyojOli merge conflict here
+
+some bla bla story
